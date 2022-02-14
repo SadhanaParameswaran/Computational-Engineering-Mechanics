@@ -1,6 +1,7 @@
 # MECHANISM ANIMATIONS
-## GeoGebra is used to create the below animations
+## GeoGebra & MATLAB are used to create the animations
 
+## GeoGebra Links to the animations:-
 ### Slider Crank First Inversion:
 https://www.geogebra.org/m/uj8uuyzc
 
