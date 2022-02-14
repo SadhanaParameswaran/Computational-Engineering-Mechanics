@@ -1,4 +1,4 @@
-# Computational Engineering Mechanics 1 EndSemester Project
+# Computational Engineering Mechanics 2 EndSemester Project
 
 ## Course Project Topics: Position Analysis and Animation of Planar Mechanism
 
