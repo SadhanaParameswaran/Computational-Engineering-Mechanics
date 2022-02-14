@@ -1,1 +1,1 @@
-
+SliderShape.m and LineCircleIntersection.m are supporting functions for the SliderCrankMechanism_Animation.m and SliderCrankMechanismWithSliderShape_Animation.m
